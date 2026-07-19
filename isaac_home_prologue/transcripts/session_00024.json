@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! How are you doing today? This is a book. What is this? Thank you very much! That's an interesting word! Goodbye, see you later.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're welcome! It was nice talking to you. See you soon.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I hope everything goes well for you today. Have a great day ahead!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hello! How are you feeling now?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i am",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi there! I'm doing pretty good, thanks for asking.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Great to hear that! I hope you have a wonderful day ahead. Thank you so much for the kind words.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hello! How's everything going with you today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "going to",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm doing pretty well, thank you. Thanks for asking!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "That's great to hear! I hope your day is going smoothly too. Have a nice one!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi there! How's it going with you today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "going to",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm doing pretty good, thanks for asking. Thanks so much for the kind words.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "That's wonderful to hear! I hope your day is going well too. Have a nice one and thank you again!",
+  "source": "model"
+ }
+]

@@ -1,0 +1,449 @@
+[
+ {
+  "event": [
+   "cat",
+   "slept"
+  ],
+  "said": [
+   "cat",
+   "slept"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "boy",
+   "threw",
+   "cup"
+  ],
+  "said": [
+   "the",
+   "boy",
+   "threw",
+   "the",
+   "cup"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "dog",
+   "threw",
+   "stick"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "threw",
+   "the",
+   "stick"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "stick",
+   "was",
+   "thrown",
+   "by",
+   "the",
+   "dog"
+  ],
+  "lesson": "unfactored"
+ },
+ {
+  "event": [
+   "he",
+   "took",
+   "ball"
+  ],
+  "said": [
+   "the",
+   "he",
+   "took",
+   "the",
+   "ball"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "she",
+   "held",
+   "nap"
+  ],
+  "said": [
+   "the",
+   "she",
+   "held",
+   "the",
+   "napkin"
+  ],
+  "verdict": "fail",
+  "say": [
+   "she",
+   "held",
+   "a",
+   "napkin"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "cat",
+   "ran"
+  ],
+  "said": [
+   "cat",
+   "ran"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "boy",
+   "sat"
+  ],
+  "said": [
+   "boy",
+   "sat"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "dog",
+   "smiled"
+  ],
+  "said": [
+   "dog",
+   "smiled"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "dog",
+   "is",
+   "smiling"
+  ],
+  "lesson": "unfactored"
+ },
+ {
+  "event": [
+   "she",
+   "smiled"
+  ],
+  "said": [
+   "she",
+   "smiled"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "he",
+   "threw",
+   "apple"
+  ],
+  "said": [
+   "the",
+   "he",
+   "threw",
+   "the",
+   "apple"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "boy",
+   "threw",
+   "apple"
+  ],
+  "said": [
+   "the",
+   "boy",
+   "threw",
+   "the",
+   "apple"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "she",
+   "slept"
+  ],
+  "said": [
+   "she",
+   "slept"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "cat",
+   "sat"
+  ],
+  "said": [
+   "cat",
+   "sat"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "she",
+   "slept"
+  ],
+  "said": [
+   "she",
+   "slept"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "he",
+   "ate",
+   "apple"
+  ],
+  "said": [
+   "the",
+   "he",
+   "eats",
+   "the",
+   "apple"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "eats",
+   "an",
+   "apple"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "he",
+   "held",
+   "stick"
+  ],
+  "said": [
+   "the",
+   "he",
+   "held",
+   "the",
+   "stick"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "held",
+   "the",
+   "stick",
+   "correct",
+   "order",
+   "and",
+   "words"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "dog",
+   "ate",
+   "apple"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "eats",
+   "the",
+   "apple"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "apple",
+   "is",
+   "eaten",
+   "by",
+   "the",
+   "dog"
+  ],
+  "lesson": "unfactored"
+ },
+ {
+  "event": [
+   "he",
+   "ran"
+  ],
+  "said": [
+   "he",
+   "ran"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "dog",
+   "slept"
+  ],
+  "said": [
+   "dog",
+   "slept"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "she",
+   "ran"
+  ],
+  "said": [
+   "she",
+   "ran"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "girl",
+   "slept"
+  ],
+  "said": [
+   "girl",
+   "slept"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "girl",
+   "sat"
+  ],
+  "said": [
+   "girl",
+   "sat"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "boy",
+   "slept"
+  ],
+  "said": [
+   "boy",
+   "slept"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "he",
+   "smiled"
+  ],
+  "said": [
+   "he",
+   "smiled"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "she",
+   "threw",
+   "apple"
+  ],
+  "said": [
+   "the",
+   "she",
+   "threw",
+   "the",
+   "apple"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "cat",
+   "sat"
+  ],
+  "said": [
+   "cat",
+   "sat"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "boy",
+   "threw",
+   "bone"
+  ],
+  "said": [
+   "the",
+   "boy",
+   "threw",
+   "the",
+   "bone"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "dog",
+   "held",
+   "cup"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "held",
+   "the",
+   "cup"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "girl",
+   "held",
+   "nap"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "held",
+   "the",
+   "napkin"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "girl",
+   "is",
+   "holding",
+   "a",
+   "napkin"
+  ],
+  "lesson": "unfactored"
+ },
+ {
+  "event": [
+   "cat",
+   "took",
+   "cup"
+  ],
+  "said": [
+   "the",
+   "cat",
+   "took",
+   "the",
+   "cup"
+  ],
+  "verdict": "pass"
+ }
+]

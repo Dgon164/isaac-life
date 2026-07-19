@@ -1,0 +1,212 @@
+feature | fragment | containing/examples
+heard:did | i | 72/146
+heard:look | . | 66/87
+heard:you ? | i | 59/106
+heard:as | . | 56/74
+heard:if | i | 56/134
+heard:you have | i | 50/90
+heard:see | , | 46/107
+heard:. you | i | 44/90
+heard:. it | i | 43/96
+heard:out | , | 41/86
+heard:she | she | 41/126
+heard:or | i | 39/85
+heard:too | ? | 39/108
+heard:want to | you | 39/98
+heard:what do | i | 38/67
+heard:you . | , | 38/84
+heard:been | i | 37/83
+heard:have a | i | 37/85
+heard:i have | you | 37/73
+heard:what do you | i | 37/61
+heard:any | , | 36/67
+heard:m | you | 35/81
+heard:very | it | 34/150
+heard:i ’ m | you | 33/78
+heard:’ m | you | 33/78
+heard:a good | , | 31/67
+heard:but i | you | 31/75
+heard:oh | ’ | 31/149
+heard:nice | you | 29/60
+heard:of the | the | 29/81
+heard:have to | you | 28/62
+heard:it is | i | 28/61
+heard:you think | i | 28/58
+heard:it ’ s | ’ s | 26/97
+heard:they | they | 26/138
+heard:to the | the | 26/83
+heard:yes . | ? | 26/62
+heard:where | to | 24/68
+heard:are you | i am | 23/138
+heard:... | ? | 22/59
+heard:first | ? | 22/60
+heard:to do | to | 21/58
+heard:him | he | 20/59
+heard:our | a | 20/63
+heard:i ’ | i ’ | 19/128
+heard:should | that | 18/69
+heard:will | will | 18/145
+heard:up | know | 17/111
+heard:you can | ’ | 17/58
+heard:her | she | 16/77
+heard:did you | yes , | 15/85
+heard:does | he | 15/79
+heard:don | ’ s | 15/79
+heard:don ’ | ’ s | 15/79
+heard:don ’ t | ’ s | 15/79
+heard:going | going | 15/126
+heard:you like | i like | 15/68
+heard:from | from | 14/116
+heard:it ’ | it ’ s | 13/100
+heard:am | are you feeling | 12/102
+heard:i am | are you feeling | 12/94
+heard:is a | are you | 12/73
+heard:what's | hi! hi, | 10/74
+heard:you | how are you feeling today? i am fine, | 10/40
+heard:a | fine, good luck! hello, how are you feeling today? i am fine, | 6/24
+heard:a book. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:a book. hi | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:are | fine, good luck! hello, how are you feeling today? i am fine, | 6/19
+heard:are welcome. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:are welcome. see | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:are you doing | fine, good luck! hello, how are you feeling today? i am fine, | 6/18
+heard:are you feeling | fine, good luck! hello, how are you feeling today? i am fine, | 6/9
+heard:asking. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:asking. this | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:asking. this is | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:book. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:book. hi | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:bye-bye. | fine, good luck! hello, how are you feeling today? i am fine, | 6/17
+heard:doing | fine, good luck! hello, how are you feeling today? i am fine, | 6/22
+heard:doing today? | fine, good luck! hello, how are you feeling today? i am fine, | 6/18
+heard:doing today? you | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:feeling | fine, good luck! hello, how are you feeling today? i am fine, | 6/9
+heard:feeling today? | fine, good luck! hello, how are you feeling today? i am fine, | 6/9
+heard:feeling today? i | fine, good luck! hello, how are you feeling today? i am fine, | 6/9
+heard:for | fine, good luck! hello, how are you feeling today? i am fine, | 6/25
+heard:for asking. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:for asking. this | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:good | fine, good luck! hello, how are you feeling today? i am fine, | 6/23
+heard:good luck! | fine, good luck! hello, how are you feeling today? i am fine, | 6/9
+heard:hi | fine, good luck! hello, how are you feeling today? i am fine, | 6/14
+heard:how | fine, good luck! hello, how are you feeling today? i am fine, | 6/20
+heard:how are | fine, good luck! hello, how are you feeling today? i am fine, | 6/19
+heard:how are you | fine, good luck! hello, how are you feeling today? i am fine, | 6/19
+heard:i | fine, good luck! hello, how are you feeling today? i am fine, | 6/24
+heard:is | fine, good luck! hello, how are you feeling today? i am fine, | 6/22
+heard:it's | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:it's a | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:it's a book. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:later | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:later then. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:luck! | fine, good luck! hello, how are you feeling today? i am fine, | 6/9
+heard:see you | fine, good luck! hello, how are you feeling today? i am fine, | 6/13
+heard:see you later | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:thank | fine, good luck! hello, how are you feeling today? i am fine, | 6/23
+heard:thank you | fine, good luck! hello, how are you feeling today? i am fine, | 6/12
+heard:thank you for | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:then. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:this | fine, good luck! hello, how are you feeling today? i am fine, | 6/14
+heard:this is | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:this is a | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:today? | fine, good luck! hello, how are you feeling today? i am fine, | 6/22
+heard:today? i | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:today? i am | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:today? you | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:today? you are | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:welcome. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:welcome. see | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:welcome. see you | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:you are | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:you are welcome. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:you doing | fine, good luck! hello, how are you feeling today? i am fine, | 6/18
+heard:you doing today? | fine, good luck! hello, how are you feeling today? i am fine, | 6/18
+heard:you feeling | fine, good luck! hello, how are you feeling today? i am fine, | 6/9
+heard:you feeling today? | fine, good luck! hello, how are you feeling today? i am fine, | 6/9
+heard:you for | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:you for asking. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:you later | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:you later then. | fine, good luck! hello, how are you feeling today? i am fine, | 6/10
+heard:book | hi! hi, | 5/5
+heard:book say? | hi! hi, | 5/5
+heard:bye-bye! | morning to you too! bye-bye! | 5/6
+heard:hi! | hi, good morning to you | 5/18
+heard:morning to | hi, good morning to you | 5/16
+heard:to you | hi, good morning to you | 5/16
+heard:to you too! | morning to you too! bye-bye! | 5/8
+heard:too! | morning to you too! bye-bye! | 5/8
+heard:too! bye-bye! | morning to you too! bye-bye! | 5/6
+heard:what's your | hi, good morning to you | 5/10
+heard:with | hi, good morning to you | 5/9
+heard:you too! | morning to you too! bye-bye! | 5/8
+heard:you too! bye-bye! | morning to you too! bye-bye! | 5/6
+heard:a question | hi, good morning to you too, bye-bye. | 4/8
+heard:a question about | hi, good morning to you too, bye-bye. | 4/8
+heard:about | hi, good morning to you too, bye-bye. | 4/8
+heard:about the | hi, good morning to you too, bye-bye. | 4/8
+heard:about the book? | hi, good morning to you too, bye-bye. | 4/8
+heard:ask | hi, good morning to you too, bye-bye. | 4/8
+heard:ask a | hi, good morning to you too, bye-bye. | 4/8
+heard:ask a question | hi, good morning to you too, bye-bye. | 4/8
+heard:ask for | hi, good morning to you too, bye-bye. | 4/8
+heard:ask for some | hi, good morning to you too, bye-bye. | 4/8
+heard:book? | hi, good morning to you too, bye-bye. | 4/9
+heard:bye-bye. hi! | hi! hi, good morning to you | 4/5
+heard:can | hi, good morning to you too, bye-bye. | 4/10
+heard:can i | hi, good morning to you too, bye-bye. | 4/10
+heard:can i ask | hi, good morning to you too, bye-bye. | 4/8
+heard:cover? | hi, good morning to you too, bye-bye. | 4/7
+heard:does it | hi, good morning to you too, bye-bye. | 4/7
+heard:does it say | hi, good morning to you too, bye-bye. | 4/7
+heard:does it say? | hi, good morning to you too, bye-bye. | 4/5
+heard:for some | hi, good morning to you too, bye-bye. | 4/8
+heard:for some help | hi, good morning to you too, bye-bye. | 4/7
+heard:good morning | hi, good morning to you too, bye-bye. | 4/13
+heard:good morning to | hi, good morning to you too, bye-bye. | 4/13
+heard:goodbye. | hi, good morning to you too, bye-bye. | 4/8
+heard:goodbye. hi! | hi, good morning to you too, bye-bye. | 4/7
+heard:help | hi, good morning to you too, bye-bye. | 4/10
+heard:help with | hi, good morning to you too, bye-bye. | 4/7
+heard:help with something? | hi, good morning to you too, bye-bye. | 4/7
+heard:i ask | hi, good morning to you too, bye-bye. | 4/8
+heard:i ask a | hi, good morning to you too, bye-bye. | 4/8
+heard:i ask for | hi, good morning to you too, bye-bye. | 4/8
+heard:is it? | hi! hi, good morning to you | 4/5
+heard:is this? | hi, good morning to you too, bye-bye. | 4/8
+heard:it | hi, good morning to you too, bye-bye. | 4/7
+heard:it say | hi, good morning to you too, bye-bye. | 4/7
+heard:it say on | hi, good morning to you too, bye-bye. | 4/7
+heard:it say? | hi, good morning to you too, bye-bye. | 4/5
+heard:it? | hi! hi, good morning to you | 4/5
+heard:morning | hi, good morning to you too, bye-bye. | 4/16
+heard:morning to you | hi, good morning to you too, bye-bye. | 4/16
+heard:name? | hi, good morning to you too, bye-bye. | 4/10
+heard:on | hi, good morning to you too, bye-bye. | 4/7
+heard:on the cover? | hi, good morning to you too, bye-bye. | 4/7
+heard:question | hi, good morning to you too, bye-bye. | 4/8
+heard:question about | hi, good morning to you too, bye-bye. | 4/8
+heard:question about the | hi, good morning to you too, bye-bye. | 4/8
+heard:say on | hi, good morning to you too, bye-bye. | 4/7
+heard:say on the | hi, good morning to you too, bye-bye. | 4/7
+heard:say? | hi, good morning to you too, bye-bye. | 4/9
+heard:say? hi! | hi! hi, | 4/4
+heard:some help | hi, good morning to you too, bye-bye. | 4/7
+heard:some help with | hi, good morning to you too, bye-bye. | 4/7
+heard:something? | hi, good morning to you too, bye-bye. | 4/8
+heard:thank you. | hi! hi, | 4/4
+heard:the | hi, good morning to you too, bye-bye. | 4/8
+heard:the book? | hi, good morning to you too, bye-bye. | 4/8
+heard:the cover? | hi, good morning to you too, bye-bye. | 4/7
+heard:this? | hi, good morning to you too, bye-bye. | 4/8
+heard:to | hi, good morning to you too, bye-bye. | 4/19
+heard:what | hi, good morning to you too, bye-bye. | 4/9
+heard:what does | hi, good morning to you too, bye-bye. | 4/9
+heard:what does it | hi, good morning to you too, bye-bye. | 4/7
+heard:what is | hi, good morning to you too, bye-bye. | 4/9
+heard:what is it? | hi! hi, good morning to you | 4/5
+heard:what is this? | hi, good morning to you too, bye-bye. | 4/8
+heard:what's your name? | hi, good morning to you too, bye-bye. | 4/10
+heard:with something? | hi, good morning to you too, bye-bye. | 4/8
+heard:you. | hi! hi, | 4/4
+heard:your | hi, good morning to you too, bye-bye. | 4/10
+heard:your name? | hi, good morning to you too, bye-bye. | 4/10

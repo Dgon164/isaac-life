@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! I'm trying too. How's it going?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Morning! Good morning to you too! See you later!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Great! Thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Morning! Good morning to you too! Bye-bye!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! Morning to you too! Bye-bye!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! Good morning to you too! Bye-bye! You're welcome!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! Good morning to you too! Bye-bye!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! Morning to you too! See you later!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're welcome! Thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! Good morning to you too! Bye-bye!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! Morning to you too! Bye-bye! You're welcome!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! Good morning to you too! Bye-bye!",
+  "source": "model"
+ }
+]

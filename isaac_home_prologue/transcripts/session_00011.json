@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "hi! nice to meet you! hi, how are you? hello! i'm fine, thank you. this is a book. hi there! what's your name? hi! good morning! hi! goodbye, see you later. hi! how was the movie? hi, i am fine. hi! good night! hi, bye-bye. hi! good job with that sentence! hi! let's practice again soon. hi! thank you for being patient. hi, you're welcome! hi, take care. hi, talk to you later! hi, hope you had a",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "okay! hi! hello! hi there! hi! good morning! hi, i am fine. hi! what's your name? hi! nice to meet you too! hi! how was the movie? hi, i'm fine! hi! goodbye, see you later. hi! good night! hi! let's practice again soon. hi, you're welcome! hi, talk to you later! hi, hope you had a great day. hi! thank you so much! hi, take care! hi, have a good one! hi, it was nice talking to you! hi",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi there! hi, i am fine. hi! what's your name? hi! nice to meet you too! hi! goodbye, see you later. hi! good night! hi, i'm fine! hi! let's practice again soon. hi, you're welcome! hi, talk to you later! hi, hope you had a great day. hi! thank you so much! hi, take care! hi! it was nice talking to you! hi, have a good one! hi! bye-bye! hi! hi there! hi! hi! hi! hi!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi there! hi, i am fine. hi! what's your name? hi! nice to meet you too! hi! goodbye, see you later. hi! good night! hi, i'm fine! hi! let's practice again soon. hi, you're welcome! hi, talk to you later! hi, hope you had a great day. hi! thank you so much! hi, take care! hi! it was nice talking to you! hi, have a good one! hi! bye-bye! hi! hi there! hi! hi! hi! hi!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi there! hi, i am fine. hi! what's your name? hi! nice to meet you too! hi! goodbye, see you later. hi! good night! hi, i'm fine! hi! let's practice again soon. hi, you're welcome! hi, talk to you later! hi, hope you had a great day. hi! thank you so much! hi, take care! hi! it was nice talking to you! hi, have a good one! hi! bye-bye! hi! hi there! hi! hi! hi! hi!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi! hi!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi there! hi, i am fine. hi! what's your name? hi! nice to meet you too! hi! goodbye, see you later. hi! good night! hi, i'm fine! hi! let's practice again soon. hi, you're welcome! hi, talk to you later! hi, hope you had a great day. hi! thank you so much! hi, take care! hi! it was nice talking to you! hi, have a good one! hi! bye-bye! hi! hi there! hi! hi! hi! hi!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! Hi! Good morning! Hi! I'm fine. Hi! What's your name? Hi! Nice to meet you too! Hi! Goodbye, see you later. Bye-bye! Hi! Good night! Hi! I'm fine too! Hi! Let's practice again soon. Hi! You're welcome! Hi! Talk to you later! Hope you had a great day! Hi! It was nice talking to you! Have a good one! Hi! Bye-bye! Hi! Hi there! Hi! Hi! Hi!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! Hi! Good morning! Hi! I'm fine. Hi! What's your name? Hi! Nice to meet you too! Hi! Goodbye, see you later. Bye-bye! Hi! Good night! Hi! I'm fine too! Hi! Let's practice again soon. Hi! You're welcome! Hi! Talk to you later! Hope you had a great day! Hi! It was nice talking to you! Have a good one! Hi! Bye-bye! Hi! Hi there! Hi! Hi! Hi!",
+  "source": "model"
+ }
+]

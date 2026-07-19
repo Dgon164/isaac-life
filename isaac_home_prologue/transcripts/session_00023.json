@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! How can I help you today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "good morning to you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Good morning!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm doing well, thank you. Nice to meet you.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You too!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Fine, thanks for asking. How about you? You're doing great, aren't you?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Good luck to you too! I'm also doing well. Nice to meet you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You as well!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": ".",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "You're welcome!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "That's great!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "I hope you have a wonderful day!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine,",
+  "source": "model"
+ }
+]

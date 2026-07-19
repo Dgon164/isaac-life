@@ -1,0 +1,470 @@
+[
+ {
+  "event": [
+   "she",
+   "held",
+   "bone"
+  ],
+  "said": [
+   "she",
+   "being",
+   "held",
+   "the",
+   "bone"
+  ],
+  "verdict": "fail",
+  "say": [
+   "she",
+   "held",
+   "the",
+   "bone"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "he",
+   "smiled"
+  ],
+  "said": [
+   "he",
+   "is",
+   "smiling"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "smiled",
+   "past",
+   "tense"
+  ],
+  "lesson": "orientation"
+ },
+ {
+  "event": [
+   "boy",
+   "ran"
+  ],
+  "said": [
+   "the",
+   "boy",
+   "ran"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "dog",
+   "grabbed",
+   "ball"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "grabbed",
+   "the",
+   "ball"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "girl",
+   "slept"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "slept"
+  ],
+  "verdict": "fail",
+  "say": [
+   "girl",
+   "slept",
+   "incorrect",
+   "verb",
+   "form"
+  ],
+  "lesson": "orientation"
+ },
+ {
+  "event": [
+   "he",
+   "grabbed",
+   "cup"
+  ],
+  "said": [
+   "he",
+   "grabbed",
+   "the",
+   "cup"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "he",
+   "sat"
+  ],
+  "said": [
+   "he",
+   "sat"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "cat",
+   "sat"
+  ],
+  "said": [
+   "the",
+   "cat",
+   "sat"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "she",
+   "ran"
+  ],
+  "said": [
+   "she",
+   "ran"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "she",
+   "sat"
+  ],
+  "said": [
+   "she",
+   "sat"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "dog",
+   "slept"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "slept"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "girl",
+   "held",
+   "cup"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "being",
+   "held",
+   "the",
+   "cup"
+  ],
+  "verdict": "unparseable",
+  "raw": "Fail: the girl was holding the cup"
+ },
+ {
+  "event": [
+   "dog",
+   "sat"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "sat"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "sat",
+   "dog"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "cat",
+   "ate",
+   "stick"
+  ],
+  "said": [
+   "the",
+   "cat",
+   "ate",
+   "the",
+   "stick"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "he",
+   "sat"
+  ],
+  "said": [
+   "he",
+   "sat"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "boy",
+   "held",
+   "cup"
+  ],
+  "said": [
+   "the",
+   "boy",
+   "being",
+   "held",
+   "the",
+   "cup"
+  ],
+  "verdict": "unparseable",
+  "raw": "FAIL\n   SAY: Boy held the cup"
+ },
+ {
+  "event": [
+   "he",
+   "ran"
+  ],
+  "said": [
+   "he",
+   "ran"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "boy",
+   "ate",
+   "stick"
+  ],
+  "said": [
+   "the",
+   "boy",
+   "ate",
+   "the",
+   "stick"
+  ],
+  "verdict": "fail",
+  "say": [
+   "boy",
+   "ate",
+   "a",
+   "stick"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "girl",
+   "smiled"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "is",
+   "smiling"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "girl",
+   "smiled"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "dog",
+   "ran"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "ran"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "girl",
+   "ate",
+   "stick"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "ate",
+   "the",
+   "stick"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "stick",
+   "was",
+   "eaten",
+   "by",
+   "the",
+   "girl"
+  ],
+  "lesson": "unfactored"
+ },
+ {
+  "event": [
+   "dog",
+   "threw",
+   "stick"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "threw",
+   "the",
+   "stick"
+  ],
+  "verdict": "unparseable",
+  "raw": "FAIL\n   SAY: The stick was thrown by the dog"
+ },
+ {
+  "event": [
+   "cat",
+   "smiled"
+  ],
+  "said": [
+   "the",
+   "cat",
+   "is",
+   "smiling"
+  ],
+  "verdict": "unparseable",
+  "raw": "FAIL\n   SAY: The cat smiled"
+ },
+ {
+  "event": [
+   "girl",
+   "ran"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "ran"
+  ],
+  "verdict": "fail",
+  "say": [
+   "ran",
+   "the",
+   "girl"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "he",
+   "sat"
+  ],
+  "said": [
+   "he",
+   "sat"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "girl",
+   "took",
+   "cup"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "took",
+   "the",
+   "cup"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "dog",
+   "smiled"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "is",
+   "smiling"
+  ],
+  "verdict": "unparseable",
+  "raw": "FAIL\nSAY: The dog smiled"
+ },
+ {
+  "event": [
+   "he",
+   "grabbed",
+   "nap"
+  ],
+  "said": [
+   "he",
+   "grabbed",
+   "a",
+   "nap"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "took",
+   "a",
+   "nap"
+  ],
+  "lesson": "decoration+form+orientation"
+ },
+ {
+  "event": [
+   "he",
+   "took",
+   "nap"
+  ],
+  "said": [
+   "he",
+   "took",
+   "a",
+   "nap"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "had",
+   "a",
+   "nap"
+  ],
+  "lesson": "decoration+form+orientation"
+ },
+ {
+  "event": [
+   "cat",
+   "ran"
+  ],
+  "said": [
+   "the",
+   "cat",
+   "ran"
+  ],
+  "verdict": "pass"
+ }
+]

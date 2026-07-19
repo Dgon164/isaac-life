@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! How are you feeling today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i am",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm good, thank you for asking. What about you?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hello! Good morning to you as well. See you later then.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're welcome. Have a nice day!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I am feeling pretty good, thanks for asking! What about you?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You too! Take care of yourself today.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hello! Good morning to you as well. See you later then.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "That's great! Stay safe and have a nice day.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I am feeling pretty good, thanks for asking! What about you?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You too! Take care of yourself today.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hello! Good morning to you as well. See you later then.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "That's great! Stay safe and have a nice day.",
+  "source": "model"
+ }
+]

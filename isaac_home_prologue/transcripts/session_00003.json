@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! How can I help you today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "I am fine, thank you. Goodbye! See you soon!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "You are welcome, goodbye. See you later!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "This is a book, thank you. Bye!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Hi, i am fine, you are welcome. Goodbye, see you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Hi there, I am good, you're welcome, goodbye, later!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Hi, i'm good, you're welcome, goodbye, by then!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Hi, i'm fine, you\u2019re welcome, goodbye, talk to you soon!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Hi, i am good, you are welcome, goodbye, see you later.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Hi, I am fine, you're welcome, bye, we'll meet again!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Hi, I'm fine, you're welcome, goodbye, talk to you soon.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Hi, i am good, you are welcome, goodbye, later, see you then!",
+  "source": "model"
+ }
+]

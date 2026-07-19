@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "Hi there! How are you feeling today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "This is a book. What color do you like?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "You're welcome. Good day!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Thank you for the compliment. See you around!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I don't speak English. This is a book. Is it yours?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Yes, I have a lot of books here. Thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're welcome. See you soon then!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm fine too, thank you. Have a nice day!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I don't speak English here. This is a book. Is that yours?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "No problem at all. Goodnight then!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "You're welcome, have a good night! See you soon!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I don't speak English here. This is a book. Is that yours?",
+  "source": "model"
+ }
+]

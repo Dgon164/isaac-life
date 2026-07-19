@@ -1,0 +1,669 @@
+[
+ {
+  "event": [
+   "boy",
+   "sat"
+  ],
+  "said": [
+   "the",
+   "boy",
+   "is",
+   "sitting"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "boy",
+   "is",
+   "sat"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "dog",
+   "sat"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "is",
+   "sitting"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "dog",
+   "is",
+   "sat"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "he",
+   "slept"
+  ],
+  "said": [
+   "be",
+   "he",
+   "is",
+   "sleeping"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "sleeps",
+   "at",
+   "this",
+   "moment"
+  ],
+  "lesson": "orientation"
+ },
+ {
+  "event": [
+   "boy",
+   "grabbed",
+   "ball"
+  ],
+  "said": [
+   "the",
+   "boy",
+   "was",
+   "grabbed",
+   "the",
+   "ball"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "boy",
+   "grabbed",
+   "the",
+   "ball"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "boy",
+   "grabbed",
+   "nap"
+  ],
+  "said": [
+   "the",
+   "boy",
+   "was",
+   "grabbed",
+   "the",
+   "napkin"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "boy",
+   "grabbed",
+   "a",
+   "napkin"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "he",
+   "slept"
+  ],
+  "said": [
+   "be",
+   "he",
+   "sleeps"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "is",
+   "sleeping"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "he",
+   "took",
+   "nap"
+  ],
+  "said": [
+   "be",
+   "he",
+   "took",
+   "the",
+   "napkin"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "took",
+   "a",
+   "nap"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "girl",
+   "grabbed",
+   "bone"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "was",
+   "grabbed",
+   "the",
+   "bone"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "bone",
+   "was",
+   "grabbed",
+   "by",
+   "the",
+   "girl"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "girl",
+   "ran"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "is",
+   "running"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "girl",
+   "runs"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "dog",
+   "ran"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "runs"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "dog",
+   "is",
+   "running"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "girl",
+   "ran"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "is",
+   "running"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "girl",
+   "runs"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "dog",
+   "took",
+   "bone"
+  ],
+  "said": [
+   "the",
+   "dog",
+   "took",
+   "the",
+   "bone"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "he",
+   "ate",
+   "ball"
+  ],
+  "said": [
+   "be",
+   "he",
+   "is",
+   "eating",
+   "the",
+   "ball"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "is",
+   "eating",
+   "the",
+   "ball",
+   "but",
+   "a",
+   "more",
+   "appropriate",
+   "sentence",
+   "would",
+   "be",
+   "he",
+   "eats",
+   "the",
+   "ball",
+   "past",
+   "tense"
+  ],
+  "lesson": "form"
+ },
+ {
+  "event": [
+   "he",
+   "threw",
+   "stick"
+  ],
+  "said": [
+   "be",
+   "he",
+   "threw",
+   "the",
+   "stick"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "threw",
+   "the",
+   "stick"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "she",
+   "ran"
+  ],
+  "said": [
+   "be",
+   "she",
+   "runs"
+  ],
+  "verdict": "fail",
+  "say": [
+   "she",
+   "is",
+   "running"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "cat",
+   "smiled"
+  ],
+  "said": [
+   "the",
+   "cat",
+   "is",
+   "smiling"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "cat",
+   "smiles",
+   "when",
+   "it",
+   "is",
+   "happy"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "girl",
+   "slept"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "is",
+   "sleeping"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "girl",
+   "sleeps",
+   "at",
+   "night"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "boy",
+   "grabbed",
+   "ball"
+  ],
+  "said": [
+   "the",
+   "boy",
+   "was",
+   "grabbed",
+   "the",
+   "ball"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "boy",
+   "grabbed",
+   "the",
+   "ball"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "girl",
+   "held",
+   "ball"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "is",
+   "holding",
+   "the",
+   "ball"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "ball",
+   "is",
+   "being",
+   "held",
+   "by",
+   "the",
+   "girl"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "she",
+   "slept"
+  ],
+  "said": [
+   "be",
+   "she",
+   "sleeps"
+  ],
+  "verdict": "fail",
+  "say": [
+   "she",
+   "is",
+   "sleeping"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "he",
+   "threw",
+   "ball"
+  ],
+  "said": [
+   "be",
+   "he",
+   "threw",
+   "the",
+   "ball"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "he",
+   "threw",
+   "ball"
+  ],
+  "said": [
+   "be",
+   "he",
+   "threw",
+   "the",
+   "ball"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "girl",
+   "ran"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "is",
+   "running"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "girl",
+   "runs"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "girl",
+   "sat"
+  ],
+  "said": [
+   "the",
+   "girl",
+   "is",
+   "sitting"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "girl",
+   "sat",
+   "down"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "he",
+   "ate",
+   "stick"
+  ],
+  "said": [
+   "be",
+   "he",
+   "is",
+   "eating",
+   "the",
+   "stick"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "is",
+   "eating",
+   "the",
+   "stick",
+   "but",
+   "a",
+   "more",
+   "appropriate",
+   "sentence",
+   "would",
+   "be",
+   "he",
+   "eats",
+   "the",
+   "stick"
+  ],
+  "lesson": "form"
+ },
+ {
+  "event": [
+   "he",
+   "slept"
+  ],
+  "said": [
+   "be",
+   "he",
+   "is",
+   "sleeping"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "sleeps",
+   "in",
+   "the",
+   "present",
+   "tense"
+  ],
+  "lesson": "orientation"
+ },
+ {
+  "event": [
+   "she",
+   "took",
+   "nap"
+  ],
+  "said": [
+   "be",
+   "she",
+   "took",
+   "the",
+   "napkin"
+  ],
+  "verdict": "fail",
+  "say": [
+   "she",
+   "took",
+   "a",
+   "nap"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "she",
+   "ate",
+   "apple"
+  ],
+  "said": [
+   "be",
+   "she",
+   "is",
+   "eating",
+   "the",
+   "apple"
+  ],
+  "verdict": "fail",
+  "say": [
+   "she",
+   "eats",
+   "an",
+   "apple"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "cat",
+   "threw",
+   "nap"
+  ],
+  "said": [
+   "the",
+   "cat",
+   "threw",
+   "the",
+   "napkin"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "cat",
+   "threw",
+   "the",
+   "nap"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "she",
+   "ate",
+   "stick"
+  ],
+  "said": [
+   "be",
+   "she",
+   "is",
+   "eating",
+   "the",
+   "stick"
+  ],
+  "verdict": "fail",
+  "say": [
+   "she",
+   "is",
+   "eating",
+   "the",
+   "stick",
+   "past",
+   "tense",
+   "should",
+   "be",
+   "used",
+   "as",
+   "it",
+   "is",
+   "given",
+   "in",
+   "the",
+   "fact"
+  ],
+  "lesson": "decoration+orientation"
+ }
+]

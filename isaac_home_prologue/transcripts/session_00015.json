@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "hi! i can help you practice speaking. what would you like to try first?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i like",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "that sounds great! what do you like to talk about?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "okay, let's start with a simple one: \"what is this?\"",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "good morning! goodbye, then.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hello, i hope you're having a nice day! see you later then.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "okay, let's try with simpler words: \"what is this?\"",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi, i hope you have a great day! say goodbye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "that sounds nice! what do you like?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "great, let's try with simpler words: \"what is this?\"",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hello, i hope you're having a good day! see you later then.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "okay, let's start with a simple one: \"what is this?\"",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hello, i hope you have a nice day! say goodbye.",
+  "source": "model"
+ }
+]

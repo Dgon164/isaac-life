@@ -1,0 +1,2 @@
+{"kind": "storage_migration", "date": "2026-07-15 06:43:10", "from_road": "pickle (mind.isaac, kept frozen \u2014 superseded, not deleted)", "to_road": "packs (C:\\Users\\jtwee\\Documents\\isaac_home\\packs), v1+v2 verified identical", "records": 346, "wrongs_kept": 781, "nodes": 323, "verified": "record-level + round-trip + life-content"}
+{"kind": "word_map_remine", "date": "2026-07-15 08:27:56", "reverted": ["ate", "nap"], "map_before": {"nap": "napkin", "ate": "eats"}, "map_after": {}, "events_replayed": 1940, "votes_replayed": 7}

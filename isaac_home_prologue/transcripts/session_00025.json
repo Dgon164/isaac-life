@@ -1,0 +1,102 @@
+[
+ {
+  "event": [
+   "he",
+   "threw",
+   "bone"
+  ],
+  "said": [
+   "he",
+   "bone",
+   "threw"
+  ],
+  "verdict": "fail",
+  "say": [
+   "he",
+   "threw",
+   "the",
+   "bone"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "boy",
+   "ran"
+  ],
+  "said": [
+   "ran",
+   "boy"
+  ],
+  "verdict": "fail",
+  "say": [
+   "the",
+   "boy",
+   "ran"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "she",
+   "ate",
+   "stick"
+  ],
+  "said": [
+   "she",
+   "ate",
+   "stick"
+  ],
+  "verdict": "fail",
+  "say": [
+   "she",
+   "is",
+   "eating",
+   "a",
+   "stick"
+  ],
+  "lesson": "unfactored"
+ },
+ {
+  "event": [
+   "she",
+   "ate",
+   "nap"
+  ],
+  "said": [
+   "she",
+   "ate",
+   "nap"
+  ],
+  "verdict": "fail",
+  "say": [
+   "she",
+   "ate",
+   "the",
+   "nap"
+  ],
+  "lesson": "decoration+orientation"
+ },
+ {
+  "event": [
+   "boy",
+   "smiled"
+  ],
+  "said": [
+   "boy",
+   "smiled"
+  ],
+  "verdict": "pass"
+ },
+ {
+  "event": [
+   "boy",
+   "slept"
+  ],
+  "said": [
+   "boy",
+   "slept"
+  ],
+  "verdict": "pass"
+ }
+]

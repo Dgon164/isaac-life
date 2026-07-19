@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "hi! how can i help you today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "this is a book. hi! hi, what's your name? hello, thank you, for welcoming me here.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "see you later. see you. goodbye. bye-bye. hi! hi, how are you doing? hi, i am fine, thank you. hi! hi, can you help me with this book? hi! hi, what is this? hi! hi, hello, how can I help you? hi! hi, what's your name? hi! hi, good morning to you too, goodbye. hi! hi, are you ready for a new adventure? hi! hi, i am fine, thank you. hi! hi, what does this book say? hi! hi",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi, can you help me with something? hi, how are you today? hi, what's your name? hi, good morning to you too, bye-bye. hi, i am fine, thank you, goodbye. hi! hi, what does this book say? hi, hello, hi, can I ask for some help? hi, what is it? hi, how are you doing today? hi, good morning, byeee. hi, what's your name? hi, what does the book say? hi, can I ask a question about the book? hi",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi, i am fine, thank you, goodbye. hi! hi, what is this? hi, hello, hi, can I ask for some help with something? hi, how are you doing today? hi, good morning to you too. hi, can I ask a question about the book? hi, what's your name? hi, what does it say on the cover? hi, i am fine, thank you. hi, what is this? hi! hi, what does it say? hi, hello, hi, can I ask for some help with something? hi",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi, what's your name? hi, good morning to you too, bye-bye. hi, i am fine, thank you, goodbye. hi, what is this? hi, hello, hi, can I ask for some help with something? hi, how are you doing today? hi, what does it say on the cover? hi, can I ask a question about the book? hi! hi, what's your name? hi, what does it say? hi, i am fine, thank you. hi, what is this? hi! hi, what does it",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi, what is this? hi, hello, hi, can I ask for some help with something? hi, how are you doing today? hi, what does it say on the cover? hi, can I ask a question about the book? hi, what's your name? hi, what does the book say? hi, i am fine, thank you. hi! hi, what is this? hi, hello, hi, can I ask for some help with something? hi, how are you doing today? hi, what does it say on the cover? h",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "i am trying to learn english . hi! hi, what is your name? hi! hi, good morning to you too, bye-bye. hi! hi, i am fine, thank you, goodbye. hi! hi, what does this book say? hi, hello, hi, can I ask for some help with something? hi, how are you doing today? hi, what is it? hi, can I ask a question about the book? hi, what's your name? hi, what does it say on the cover? hi! hi, what is this? hi,",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi, what is your name? hi! hi, good morning to you too, bye-bye. hi! hi, i am fine, thank you, goodbye. hi! hi, what does it say on the cover? hi, hello, hi, can I ask for some help with something? hi, how are you doing today? hi, what is this? hi, can I ask a question about the book? hi, what's your name? hi, what does the book say? hi! hi, what is it? hi! hi, what does it say?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi, good morning to you too, bye-bye. hi! hi, i am fine, thank you, goodbye. hi! hi, what is this? hi, hello, hi, can I ask for some help with something? hi, how are you doing today? hi, what does it say on the cover? hi, can I ask a question about the book? hi, what's your name? hi, what does it say? hi! hi, what is it? hi! hi, what does it say? hi, hi, hello. hi, goodbye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi, good morning to you too, bye-bye. hi! hi, i am fine, thank you, goodbye. hi! hi, what is this? hi, hello, hi, can I ask for some help with something? hi, how are you doing today? hi, what does it say on the cover? hi, can I ask a question about the book? hi, what's your name? hi, what does it say? hi! hi, what is it? hi! hi, what does it say? hi, hello, goodbye. hi, bye-b",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "hi! hi, good morning to you too, bye-bye. hi! hi, i am fine, thank you, goodbye. hi! hi, what is this? hi, hello, hi, can I ask for some help with something? hi, how are you doing today? hi, what does it say on the cover? hi, can I ask a question about the book? hi, what's your name? hi, what does it say? hi! hi, what is it? hi! hi, what does it say? hi, goodbye. hi! hi, what is",
+  "source": "model"
+ }
+]

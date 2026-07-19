@@ -1,0 +1,142 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "Good! Start by reading simple things.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Read a story or article about the zoo, like this one: \"The Zoo\" from The New York Times.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Start with short sentences.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you too, bye-bye.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Good morning! Goodbye for now.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm doing well, thanks. How about you?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "you're doing great! thank you for being nice. you're welcome.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "That's wonderful to hear! You're very kind. You're welcome too.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hello!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "Are you okay?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i am",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Good, everything is fine then.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm doing well. How about you?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "you're doing great! thank you for being nice. you're welcome.",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "That's wonderful to hear! You're very kind. You're welcome too.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hello!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "You're fine, right?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i'm glad to hear that! you're as good as it gets. that's",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "That sounds nice. Good luck then!",
+  "source": "model"
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "hi! how can i help you today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "you are welcome!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "this is a book, right?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "what is this?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "how are you?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "i am fine, thank you.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "see you then!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "hi again! goodbye!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "hello! hi! hi there! see you later!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "you are welcome! hi! hi there! bye!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "hi! i am fine, thank you! hi again! goodbye! bye-bye! hello! hi there! hi! hi there! hi again! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there! hi! hi there",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "hi! i am fine, thank you! hi again! goodbye! bye-bye! hello! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there! hi-there!",
+  "source": "model"
+ }
+]

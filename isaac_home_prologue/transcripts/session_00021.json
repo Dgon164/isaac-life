@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "hello! i can help you. hi there! how are you? it's nice to meet you. hello! good morning! what is this? it's a book. hi! you have a great day! hi! you're welcome! see you later! hi! i hope everything goes well for you today. hi! thank you so much, that means a lot to me. hi! i am fine. hi! you are amazing at learning English! hi! goodbye! see you soon! hi! you have very good manners. hi! thank you",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "thanks for your kind words! you're welcome! no problem! hi! see you then! hi! you made a nice day happen! hi! you are so helpful! hi! i hope we can learn more together soon! hi! it was great talking to you today! hi! you have very good manners. hi! thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "you're welcome! hi! see you later then! hi! you're awesome at learning English! hi! i hope we can talk more sometime soon! hi! that's great of you to say! hi! you are a wonderful person! hi! thank you so much! hi! it was nice talking to you! hi! you have very good manners. hi! you will always be welcome here! hi! you are doing an amazing job at learning English! hi! thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "you're welcome! hi! see you later then! hi! you know so much about English! hi! i hope we can learn more together soon! hi! that's great of you to say! hi! you are a wonderful person! hi! thank you so much! hi! it was nice talking to you! hi! you have very good manners. hi! you will always be welcome here! hi! you are doing an amazing job at learning English! hi! thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "you're welcome! hi! see you later then! hi! you know so much about English! hi! i hope we can learn more together soon! hi! that's great of you to say! hi! you are a wonderful person! hi! thank you so much! hi! it was nice talking to you! hi! you have very good manners. hi! you will always be welcome here! hi! you are doing an amazing job at learning English! hi! thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "you're welcome! hi! see you later then! hi! you know so much about English! hi! i hope we can learn more together soon! hi! that's great of you to say! hi! you are a wonderful person! hi! thank you so much! hi! it was nice talking to you! hi! you have very good manners. hi! you will always be welcome here! hi! you are doing an amazing job at learning English! hi! thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "you're welcome! hi! see you later then! hi! you know so much about English! hi! i hope we can learn more together soon! hi! that's great of you to say! hi! you are a wonderful person! hi! thank you so much! hi! it was nice talking to you! hi! you have very good manners. hi! you will always be welcome here! hi! you are doing an amazing job at learning English! hi! thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "you're welcome! hi! see you later then! hi! you know so much about English! hi! i hope we can learn more together soon! hi! that's great of you to say! hi! you are a wonderful person! hi! thank you so much! hi! it was nice talking to you! hi! you have very good manners. hi! you will always be welcome here! hi! you are doing an amazing job at learning English! hi! thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "you're welcome! hi! see you later then! hi! you know so much about English! hi! i hope we can learn more together soon! hi! that's great of you to say! hi! you are a wonderful person! hi! thank you so much! hi! it was nice talking to you! hi! you have very good manners. hi! you will always be welcome here! hi! you are doing an amazing job at learning English! hi! thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "you're welcome! hi! see you later then! hi! you know so much about English! hi! i hope we can learn more together soon! hi! that's great of you to say! hi! you are a wonderful person! hi! thank you so much! hi! it was nice talking to you! hi! you have very good manners. hi! you will always be welcome here! hi! you are doing an amazing job at learning English! hi! thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "you're welcome! hi! see you later then! hi! you know so much about English! hi! i hope we can learn more together soon! hi! that's great of you to say! hi! you are a wonderful person! hi! thank you so much! hi! it was nice talking to you! hi! you have very good manners. hi! you will always be welcome here! hi! you are doing an amazing job at learning English! hi! thank you!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "you're welcome! hi! see you later then! hi! you know so much about English! hi! i hope we can learn more together soon! hi! that's great of you to say! hi! you are a wonderful person! hi! thank you so much! hi! it was nice talking to you! hi! you have very good manners. hi! you will always be welcome here! hi! you are doing an amazing job at learning English! hi! thank you!",
+  "source": "model"
+ }
+]

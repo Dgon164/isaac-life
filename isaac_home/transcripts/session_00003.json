@@ -1,0 +1,142 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! How can I help you today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're doing great! Thank you for being nice. You're welcome.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm glad to hear that! You're as good as it gets. That's all right.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're doing great! Thank you for being nice. You're welcome.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm glad to hear that! You're as good as it gets. That's all right.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're doing great! Thank you for being nice. You're welcome.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm glad to hear that! You're as good as it gets. That's all right.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're doing great! Thank you for being nice. You're welcome.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm glad to hear that! You're as good as it gets. That's all right.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're doing great! Thank you for being nice. You're welcome.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm glad to hear that! You're as good as it gets. That's all right.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're doing great! Thank you for being nice. You're welcome.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "I'm glad to hear that! You're as good as it gets. That's all right.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're doing great! Thank you for being nice. You're welcome.",
+  "source": "model"
+ }
+]

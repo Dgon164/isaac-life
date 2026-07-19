@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "hi there! i'm glad you're learning English. what can i help you with?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "good morning! i hope you have a great day. hello! hi, how are you doing today? i am fine, thank you for asking. this is a book, it's a book. hi there, how are you doing today? you are welcome. see you later then. goodbye, bye-bye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "fine, good luck! hi, how are you feeling today? i am fine, thank you for asking. this is a book, it's a book. hi there, how are you doing today? you are welcome. see you later then. goodbye, bye-bye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "fine, good luck! hi, how are you feeling today? i am fine, thank you for asking. this is a book, it's a book. hi there, how are you doing today? you are welcome. see you later then. goodbye, bye-bye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "fine, good luck! hi, how are you feeling today? i am fine, thank you for asking. this is a book, it's a book. hi there, how are you doing today? you are welcome. see you later then. goodbye, bye-bye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "fine, good luck! hi, how are you feeling today? i am fine, thank you for asking. this is a book, it's a book. hi there, how are you doing today? you are welcome. see you later then. goodbye, bye-bye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine, thank you for asking. this is a book, it's a book. hi there, how are you doing today? you are welcome. see you later then. goodbye, bye-bye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine, thank you for asking. this is a book, it's a book. hi there, how are you doing today? you are welcome. see you later then. goodbye, bye-bye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine, thank you for asking. this is a book, it's a book. hi there, how are you doing today? you are welcome. see you later then. goodbye, bye-bye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine, thank you for asking. this is a book, it's a book. hi there, how are you doing today? you are welcome. see you later then. goodbye, bye-bye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine, thank you for asking. this is a book, it's a book. hi there, how are you doing today? you are welcome. see you later then. goodbye, bye-bye.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine, thank you for asking. this is a book, it's a book. hi there, how are you doing today? you are welcome. see you later then. goodbye, bye-bye.",
+  "source": "model"
+ }
+]

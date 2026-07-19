@@ -1,0 +1,96 @@
+{"session": 0, "pairs": 0, "fragments_before": 0, "fragments_after": 0, "silence": 11, "spoke": 0, "partner_calls": 12, "ts": 1783904107.217667}
+{"session": 1, "pairs": 0, "fragments_before": 0, "fragments_after": 0, "silence": 11, "spoke": 0, "partner_calls": 24, "ts": 1783904108.7996333}
+{"session": 2, "pairs": 0, "fragments_before": 0, "fragments_after": 0, "silence": 11, "spoke": 0, "partner_calls": 36, "ts": 1783904110.1866128}
+{"session": 3, "pairs": 0, "fragments_before": 0, "fragments_after": 0, "silence": 11, "spoke": 0, "partner_calls": 48, "ts": 1783904111.4429057}
+{"session": 4, "pairs": 5, "fragments_before": 0, "fragments_after": 52, "silence": 11, "spoke": 0, "partner_calls": 60, "ts": 1783904115.4077034}
+{"session": 5, "pairs": 0, "fragments_before": 52, "fragments_after": 52, "silence": 5, "spoke": 6, "partner_calls": 72, "ts": 1783904116.9115472}
+{"session": 6, "pairs": 0, "fragments_before": 52, "fragments_after": 52, "silence": 5, "spoke": 6, "partner_calls": 84, "ts": 1783904117.9878}
+{"session": 7, "pairs": 0, "fragments_before": 52, "fragments_after": 52, "silence": 5, "spoke": 6, "partner_calls": 96, "ts": 1783904119.0299418}
+{"session": 8, "pairs": 0, "fragments_before": 52, "fragments_after": 52, "silence": 8, "spoke": 3, "partner_calls": 108, "ts": 1783904119.9151344}
+{"session": 9, "pairs": 11, "fragments_before": 52, "fragments_after": 152, "silence": 2, "spoke": 9, "partner_calls": 120, "ts": 1783904129.8402236}
+{"session": 10, "pairs": 0, "fragments_before": 152, "fragments_after": 152, "silence": 1, "spoke": 10, "partner_calls": 132, "ts": 1783904131.0785973}
+{"session": 11, "pairs": 0, "fragments_before": 152, "fragments_after": 152, "silence": 0, "spoke": 11, "partner_calls": 144, "ts": 1783904137.772261}
+{"session": 12, "pairs": 0, "fragments_before": 152, "fragments_after": 152, "silence": 0, "spoke": 11, "partner_calls": 156, "ts": 1783904138.8772764}
+{"session": 13, "pairs": 0, "fragments_before": 152, "fragments_after": 152, "silence": 1, "spoke": 10, "partner_calls": 168, "ts": 1783904139.8159325}
+{"session": 14, "pairs": 10, "fragments_before": 152, "fragments_after": 163, "silence": 0, "spoke": 11, "partner_calls": 180, "ts": 1783904144.5496812}
+{"session": 15, "pairs": 0, "fragments_before": 163, "fragments_after": 163, "silence": 0, "spoke": 11, "partner_calls": 192, "ts": 1783904145.9221082}
+{"session": 16, "pairs": 0, "fragments_before": 163, "fragments_after": 163, "silence": 0, "spoke": 11, "partner_calls": 204, "ts": 1783904146.8182156}
+{"session": 17, "pairs": 0, "fragments_before": 163, "fragments_after": 163, "silence": 0, "spoke": 11, "partner_calls": 216, "ts": 1783904147.7233665}
+{"session": 18, "pairs": 0, "fragments_before": 163, "fragments_after": 163, "silence": 0, "spoke": 11, "partner_calls": 228, "ts": 1783904148.84613}
+{"session": 19, "pairs": 11, "fragments_before": 163, "fragments_after": 210, "silence": 0, "spoke": 11, "partner_calls": 240, "ts": 1783904156.7133737}
+{"session": 20, "pairs": 0, "fragments_before": 210, "fragments_after": 210, "silence": 1, "spoke": 10, "partner_calls": 252, "ts": 1783904157.9392574}
+{"session": 21, "pairs": 0, "fragments_before": 210, "fragments_after": 210, "silence": 0, "spoke": 11, "partner_calls": 264, "ts": 1783904163.5413294}
+{"session": 22, "pairs": 0, "fragments_before": 210, "fragments_after": 210, "silence": 2, "spoke": 9, "partner_calls": 276, "ts": 1783904164.7623808}
+{"session": 23, "pairs": 0, "fragments_before": 210, "fragments_after": 210, "silence": 3, "spoke": 8, "partner_calls": 288, "ts": 1783904165.703733}
+{"session": 24, "pairs": 11, "fragments_before": 210, "fragments_after": 211, "silence": 0, "spoke": 11, "partner_calls": 300, "ts": 1783904171.8068235}
+{"session": 25, "kind": "idea_drill", "events": 6, "passes": 2, "corrections": 4, "factorable": 3, "broken": 0, "lessons": {"decoration+orientation": 3, "unfactored": 1}, "ts": 1783949270.9798837}
+{"session": 26, "kind": "idea_drill", "events": 30, "passes": 21, "corrections": 9, "factorable": 3, "broken": 0, "lessons": {"unfactored": 6, "decoration+orientation": 2, "decoration+orientation+word": 1}, "ts": 1783949295.9705896}
+{"session": 27, "kind": "idea_drill", "events": 30, "passes": 22, "corrections": 8, "factorable": 4, "broken": 0, "lessons": {"unfactored": 4, "decoration+orientation": 3, "decoration+orientation+word": 1}, "ts": 1783949300.1383536}
+{"session": 28, "kind": "idea_drill", "events": 30, "passes": 20, "corrections": 10, "factorable": 0, "broken": 0, "lessons": {"unfactored": 10}, "ts": 1783949304.2573617}
+{"session": 29, "kind": "idea_drill", "events": 30, "passes": 16, "corrections": 14, "factorable": 4, "broken": 0, "lessons": {"decoration+orientation": 4, "unfactored": 10}, "ts": 1783949308.3896914}
+{"session": 30, "kind": "idea_drill", "events": 30, "passes": 23, "corrections": 7, "factorable": 1, "broken": 0, "lessons": {"unfactored": 6, "decoration+orientation": 1}, "ts": 1783949312.3703346}
+{"session": 31, "kind": "idea_drill", "events": 30, "passes": 24, "corrections": 6, "factorable": 1, "broken": 0, "lessons": {"unfactored": 5, "decoration+orientation": 1}, "ts": 1783949316.5614583}
+{"session": 32, "kind": "idea_drill", "events": 30, "passes": 23, "corrections": 7, "factorable": 1, "broken": 0, "lessons": {"unfactored": 6, "decoration+orientation": 1}, "ts": 1783949320.5264769}
+{"session": 33, "kind": "idea_drill", "events": 30, "passes": 19, "corrections": 11, "factorable": 2, "broken": 0, "lessons": {"unfactored": 9, "decoration+orientation": 2}, "ts": 1783949324.9208593}
+{"session": 34, "kind": "idea_drill", "events": 30, "passes": 23, "corrections": 7, "factorable": 4, "broken": 0, "lessons": {"decoration+orientation": 4, "unfactored": 3}, "ts": 1783949329.3829174}
+{"session": 35, "kind": "idea_drill", "events": 30, "passes": 18, "corrections": 12, "factorable": 3, "broken": 0, "lessons": {"unfactored": 9, "decoration+orientation": 3}, "ts": 1783949333.485115}
+{"session": 36, "kind": "idea_drill", "events": 30, "passes": 24, "corrections": 6, "factorable": 2, "broken": 0, "lessons": {"unfactored": 4, "decoration+orientation": 2}, "ts": 1783949337.3878014}
+{"session": 37, "kind": "idea_drill", "events": 30, "passes": 26, "corrections": 4, "factorable": 0, "broken": 0, "lessons": {"unfactored": 4}, "ts": 1783949341.391342}
+{"session": 38, "kind": "idea_drill", "events": 30, "passes": 23, "corrections": 7, "factorable": 1, "broken": 0, "lessons": {"unfactored": 6, "decoration+orientation": 1}, "ts": 1783949345.322457}
+{"session": 39, "kind": "idea_drill", "events": 30, "passes": 22, "corrections": 8, "factorable": 3, "broken": 0, "lessons": {"unfactored": 5, "decoration+orientation": 3}, "ts": 1783949349.3577538}
+{"session": 40, "kind": "idea_drill", "events": 30, "passes": 17, "corrections": 13, "factorable": 3, "broken": 0, "lessons": {"unfactored": 10, "decoration+orientation": 3}, "ts": 1783949353.5678024}
+{"session": 41, "kind": "idea_drill", "events": 30, "passes": 22, "corrections": 8, "factorable": 1, "broken": 0, "lessons": {"unfactored": 7, "decoration+orientation": 1}, "ts": 1783949357.4880528}
+{"session": 42, "kind": "idea_drill", "events": 30, "passes": 21, "corrections": 9, "factorable": 2, "broken": 0, "lessons": {"unfactored": 7, "decoration+orientation": 2}, "ts": 1783949361.8341982}
+{"session": 43, "kind": "idea_drill", "events": 30, "passes": 22, "corrections": 8, "factorable": 1, "broken": 0, "lessons": {"unfactored": 7, "decoration+orientation": 1}, "ts": 1783949366.1131797}
+{"session": 44, "kind": "idea_drill", "events": 30, "passes": 23, "corrections": 7, "factorable": 3, "broken": 0, "lessons": {"decoration+orientation": 3, "unfactored": 4}, "ts": 1783949370.2383165}
+{"session": 45, "kind": "idea_drill", "events": 30, "passes": 23, "corrections": 7, "factorable": 3, "broken": 0, "lessons": {"unfactored": 4, "decoration+orientation": 3}, "ts": 1783949374.2959273}
+{"session": 46, "kind": "idea_drill", "events": 6, "passes": 5, "corrections": 1, "factorable": 1, "broken": 0, "lessons": {"decoration+orientation": 1}, "ts": 1783950368.5378969}
+{"session": 47, "kind": "idea_drill", "events": 30, "passes": 21, "corrections": 9, "factorable": 6, "broken": 0, "lessons": {"decoration+form+orientation": 2, "decoration+orientation": 3, "unfactored": 3, "form+orientation": 1}, "ts": 1783950395.7793365}
+{"session": 48, "kind": "idea_drill", "events": 30, "passes": 19, "corrections": 11, "factorable": 7, "broken": 0, "lessons": {"unfactored": 4, "decoration+form+orientation": 2, "decoration+orientation": 4, "orientation": 1}, "ts": 1783950399.901706}
+{"session": 49, "kind": "idea_drill", "events": 30, "passes": 19, "corrections": 11, "factorable": 10, "broken": 0, "lessons": {"decoration+form+orientation": 3, "decoration+orientation": 6, "orientation": 1, "unfactored": 1}, "ts": 1783950403.8915377}
+{"session": 50, "kind": "idea_drill", "events": 30, "passes": 13, "corrections": 17, "factorable": 17, "broken": 0, "lessons": {"decoration+orientation": 16, "decoration+form+orientation": 1}, "ts": 1783950407.8358607}
+{"session": 51, "kind": "idea_drill", "events": 30, "passes": 21, "corrections": 9, "factorable": 8, "broken": 0, "lessons": {"unfactored": 1, "decoration+orientation": 5, "decoration+form+orientation": 2, "form": 1}, "ts": 1783950412.1214862}
+{"session": 52, "kind": "idea_drill", "events": 30, "passes": 13, "corrections": 17, "factorable": 16, "broken": 0, "lessons": {"decoration+form+orientation": 4, "decoration+orientation": 12, "unfactored": 1}, "ts": 1783950416.421341}
+{"session": 53, "kind": "idea_drill", "events": 30, "passes": 7, "corrections": 23, "factorable": 23, "broken": 0, "lessons": {"decoration+orientation": 20, "decoration+form+orientation": 3}, "ts": 1783950420.3086407}
+{"session": 54, "kind": "idea_drill", "events": 30, "passes": 6, "corrections": 24, "factorable": 24, "broken": 0, "lessons": {"decoration+orientation": 20, "decoration+form+orientation": 3, "orientation": 1}, "ts": 1783950424.3428373}
+{"session": 55, "kind": "idea_drill", "events": 30, "passes": 5, "corrections": 25, "factorable": 25, "broken": 0, "lessons": {"decoration+orientation": 22, "decoration+form+orientation": 3}, "ts": 1783950428.5269976}
+{"session": 56, "kind": "idea_drill", "events": 30, "passes": 3, "corrections": 27, "factorable": 25, "broken": 0, "lessons": {"decoration+orientation": 21, "decoration+form+orientation": 2, "orientation": 2, "unfactored": 2}, "ts": 1783950432.5309694}
+{"session": 57, "kind": "idea_drill", "events": 30, "passes": 4, "corrections": 26, "factorable": 26, "broken": 0, "lessons": {"decoration+form+orientation": 2, "decoration+orientation": 24}, "ts": 1783950436.92702}
+{"session": 58, "kind": "idea_drill", "events": 30, "passes": 3, "corrections": 27, "factorable": 27, "broken": 0, "lessons": {"decoration+orientation": 23, "orientation": 2, "form": 2}, "ts": 1783950441.2667873}
+{"session": 59, "kind": "idea_drill", "events": 30, "passes": 17, "corrections": 13, "factorable": 6, "broken": 0, "lessons": {"unfactored": 7, "decoration+orientation": 3, "orientation": 3}, "ts": 1783950718.1835284}
+{"session": 60, "kind": "idea_drill", "events": 30, "passes": 15, "corrections": 15, "factorable": 12, "broken": 0, "lessons": {"unfactored": 3, "decoration+orientation": 11, "decoration+form+orientation": 1}, "ts": 1783950722.1910965}
+{"session": 61, "kind": "idea_drill", "events": 30, "passes": 15, "corrections": 15, "factorable": 11, "broken": 0, "lessons": {"decoration+orientation": 10, "unfactored": 4, "decoration+form+orientation": 1}, "ts": 1783950726.3732018}
+{"session": 62, "kind": "idea_drill", "events": 30, "passes": 17, "corrections": 13, "factorable": 9, "broken": 0, "lessons": {"unfactored": 4, "decoration+orientation": 7, "orientation": 2}, "ts": 1783950730.2511532}
+{"session": 63, "kind": "idea_drill", "events": 30, "passes": 15, "corrections": 15, "factorable": 11, "broken": 0, "lessons": {"unfactored": 4, "decoration+orientation": 7, "decoration+form+orientation": 2, "orientation": 2}, "ts": 1783950734.2660904}
+{"session": 64, "kind": "idea_drill", "events": 30, "passes": 13, "corrections": 17, "factorable": 13, "broken": 0, "lessons": {"decoration+orientation": 11, "unfactored": 4, "orientation": 2}, "ts": 1783950738.2278912}
+{"session": 65, "kind": "idea_drill", "events": 30, "passes": 14, "corrections": 16, "factorable": 11, "broken": 0, "lessons": {"unfactored": 5, "orientation": 2, "decoration+orientation": 8, "decoration+form+orientation": 1}, "ts": 1783950742.371307}
+{"session": 66, "kind": "idea_drill", "events": 30, "passes": 17, "corrections": 13, "factorable": 13, "broken": 0, "lessons": {"decoration+orientation": 12, "orientation": 1}, "ts": 1783950746.2504466}
+{"session": 67, "kind": "idea_drill", "events": 30, "passes": 12, "corrections": 18, "factorable": 10, "broken": 0, "lessons": {"unfactored": 8, "orientation": 3, "decoration+orientation": 7}, "ts": 1783950750.3576705}
+{"session": 68, "kind": "idea_drill", "events": 30, "passes": 16, "corrections": 14, "factorable": 9, "broken": 0, "lessons": {"unfactored": 5, "decoration+orientation": 9}, "ts": 1783950754.4915478}
+{"session": 69, "kind": "idea_drill", "events": 30, "passes": 16, "corrections": 14, "factorable": 9, "broken": 0, "lessons": {"decoration+orientation": 7, "orientation": 2, "unfactored": 5}, "ts": 1783950758.578851}
+{"session": 70, "kind": "idea_drill", "events": 30, "passes": 13, "corrections": 17, "factorable": 13, "broken": 0, "lessons": {"decoration+orientation": 12, "decoration+form+orientation": 1, "unfactored": 4}, "ts": 1783950762.4869044}
+{"session": 71, "kind": "idea_drill", "events": 30, "passes": 9, "corrections": 15, "factorable": 13, "broken": 6, "lessons": {"decoration+orientation": 5, "orientation": 8, "unfactored": 2}, "ts": 1783950850.7515175}
+{"session": 72, "kind": "idea_drill", "events": 30, "passes": 12, "corrections": 12, "factorable": 12, "broken": 6, "lessons": {"orientation": 5, "decoration+orientation": 7}, "ts": 1783950854.3899236}
+{"session": 73, "kind": "idea_drill", "events": 30, "passes": 14, "corrections": 11, "factorable": 9, "broken": 5, "lessons": {"decoration+orientation": 8, "unfactored": 2, "orientation": 1}, "ts": 1783950858.0906856}
+{"session": 74, "kind": "idea_drill", "events": 30, "passes": 16, "corrections": 8, "factorable": 8, "broken": 6, "lessons": {"orientation": 5, "decoration+orientation": 3}, "ts": 1783950861.8797064}
+{"session": 75, "kind": "idea_drill", "events": 30, "passes": 10, "corrections": 13, "factorable": 11, "broken": 7, "lessons": {"unfactored": 2, "decoration+orientation": 7, "orientation": 4}, "ts": 1783950865.7589858}
+{"session": 76, "kind": "idea_drill", "events": 30, "passes": 17, "corrections": 8, "factorable": 8, "broken": 5, "lessons": {"decoration+form+orientation": 1, "orientation": 6, "decoration+orientation": 1}, "ts": 1783950869.5055292}
+{"session": 77, "kind": "idea_drill", "events": 30, "passes": 15, "corrections": 10, "factorable": 9, "broken": 5, "lessons": {"orientation": 8, "decoration+orientation": 1, "unfactored": 1}, "ts": 1783950873.2357738}
+{"session": 78, "kind": "idea_drill", "events": 30, "passes": 19, "corrections": 9, "factorable": 9, "broken": 2, "lessons": {"orientation": 3, "decoration+orientation": 6}, "ts": 1783950876.819833}
+{"session": 79, "kind": "idea_drill", "events": 30, "passes": 15, "corrections": 10, "factorable": 9, "broken": 5, "lessons": {"decoration+orientation": 5, "orientation": 2, "unfactored": 1, "decoration+form+orientation": 2}, "ts": 1783950880.3342993}
+{"session": 80, "kind": "idea_drill", "events": 30, "passes": 17, "corrections": 10, "factorable": 9, "broken": 3, "lessons": {"orientation": 5, "decoration+orientation": 3, "decoration+form+orientation": 1, "unfactored": 1}, "ts": 1783950884.2296124}
+{"session": 81, "kind": "idea_drill", "events": 30, "passes": 12, "corrections": 10, "factorable": 8, "broken": 8, "lessons": {"decoration+form+orientation": 2, "unfactored": 2, "decoration+orientation": 5, "orientation": 1}, "ts": 1783950887.9838052}
+{"session": 82, "kind": "idea_drill", "events": 30, "passes": 18, "corrections": 6, "factorable": 6, "broken": 6, "lessons": {"decoration+form+orientation": 1, "orientation": 2, "decoration+orientation": 3}, "ts": 1783950891.7726662}
+{"session": 83, "kind": "idea_drill", "events": 30, "passes": 20, "corrections": 6, "factorable": 6, "broken": 4, "lessons": {"orientation": 3, "decoration+orientation": 3}, "ts": 1783951162.365196}
+{"session": 84, "kind": "idea_drill", "events": 30, "passes": 15, "corrections": 12, "factorable": 7, "broken": 3, "lessons": {"unfactored": 5, "decoration+orientation": 5, "decoration+form+orientation": 1, "orientation": 1}, "ts": 1783951166.2030916}
+{"session": 85, "kind": "idea_drill", "events": 30, "passes": 21, "corrections": 5, "factorable": 5, "broken": 4, "lessons": {"decoration+orientation": 4, "orientation": 1}, "ts": 1783951169.6340702}
+{"session": 86, "kind": "idea_drill", "events": 30, "passes": 19, "corrections": 6, "factorable": 3, "broken": 5, "lessons": {"unfactored": 3, "decoration+orientation": 3}, "ts": 1783951173.6174946}
+{"session": 87, "kind": "idea_drill", "events": 30, "passes": 15, "corrections": 9, "factorable": 6, "broken": 6, "lessons": {"decoration+orientation": 5, "unfactored": 3, "orientation": 1}, "ts": 1783951177.5578856}
+{"session": 88, "kind": "idea_drill", "events": 30, "passes": 19, "corrections": 6, "factorable": 6, "broken": 5, "lessons": {"orientation": 2, "decoration+orientation": 3, "decoration+form+orientation": 1}, "ts": 1783951181.392613}
+{"session": 89, "kind": "idea_drill", "events": 30, "passes": 26, "corrections": 2, "factorable": 1, "broken": 2, "lessons": {"orientation": 1, "unfactored": 1}, "ts": 1783951185.2167504}
+{"session": 90, "kind": "idea_drill", "events": 30, "passes": 14, "corrections": 10, "factorable": 8, "broken": 6, "lessons": {"decoration+orientation": 4, "unfactored": 2, "orientation": 4}, "ts": 1783951189.0046244}
+{"session": 91, "kind": "idea_drill", "events": 30, "passes": 14, "corrections": 9, "factorable": 7, "broken": 7, "lessons": {"decoration+orientation": 6, "unfactored": 2, "orientation": 1}, "ts": 1783951193.03868}
+{"session": 92, "kind": "idea_drill", "events": 30, "passes": 22, "corrections": 6, "factorable": 4, "broken": 2, "lessons": {"decoration+orientation": 2, "unfactored": 2, "decoration+form+orientation": 1, "orientation": 1}, "ts": 1783951196.8353684}
+{"session": 93, "kind": "idea_drill", "events": 30, "passes": 27, "corrections": 2, "factorable": 1, "broken": 1, "lessons": {"unfactored": 1, "decoration+orientation": 1}, "ts": 1783951200.670859}
+{"session": 94, "kind": "idea_drill", "events": 30, "passes": 20, "corrections": 7, "factorable": 6, "broken": 3, "lessons": {"decoration+orientation": 3, "unfactored": 1, "orientation": 3}, "ts": 1783951204.4671316}
+{"session": 95, "kind": "idea_drill", "events": 30, "passes": 15, "corrections": 6, "factorable": 6, "broken": 9, "lessons": {"decoration+orientation": 1, "orientation": 5}, "ts": 1784125727.8727105}

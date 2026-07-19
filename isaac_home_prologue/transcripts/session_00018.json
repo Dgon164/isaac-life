@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "Hi! How are you feeling today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hello! You sound very friendly. What's this on your desk?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "it",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "This is a book. Thank you for asking me that question!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi there! Good morning to you too! How can I help you today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "morning to you too! bye-bye!",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Goodbye then! Take care and see you soon.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're welcome! Have a wonderful day!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hi there! I'm fine thank you for asking. Is there anything you would like to know?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Good morning! How can I assist you today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Good morning! You sound very polite. Anything else on your mind?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "it",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "This is a book. Thank you for asking me that question!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "hi, good morning to you",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Hello there! Good morning to you too! How can I help you today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "morning to you too! bye-bye!",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Goodbye then! Take care and see you soon.",
+  "source": "model"
+ }
+]

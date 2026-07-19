@@ -1,0 +1,122 @@
+[
+ {
+  "who": "isaac",
+  "text": "i am trying to learn english .",
+  "source": "opener"
+ },
+ {
+  "who": "partner",
+  "text": "Hello! How can I help you today?",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're welcome! I'm doing well too. Hello! You're just as good. How's it going? It's just the same here.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Okay then. Goodbye! See you later!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Bye-bye! Take care!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "morning to you too! bye-bye!",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Good morning! See you around! Bye-bye!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "That's all right. Goodbye then!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "...",
+  "source": "silence"
+ },
+ {
+  "who": "partner",
+  "text": "I'm good, thanks! Have a nice day!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "i",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're doing great too! See you later then!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "That\u2019s it then. Goodbye for now!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": "fine, good luck! hello, how are you feeling today? i am fine,",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "You're just as good! How's your day going? It's the same here too.",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ".",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "Okay then. Goodbye! See you later!",
+  "source": "model"
+ },
+ {
+  "who": "isaac",
+  "text": ",",
+  "source": "learned-fragment"
+ },
+ {
+  "who": "partner",
+  "text": "That\u2019s it then. Goodbye for now!",
+  "source": "model"
+ }
+]
