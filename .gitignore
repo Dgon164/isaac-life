@@ -1,0 +1,5 @@
+# Backup staging — snapshots pass through here; NEVER commit them
+# (a 257MB staging orphan in a `git add -A` would hit the exact
+# GitHub 100MB wall tools/backup_mind.py exists to route around)
+tools/_staging/
+*.part

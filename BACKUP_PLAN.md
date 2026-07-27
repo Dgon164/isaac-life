@@ -53,7 +53,25 @@ of failure)
 2. Copy it to `isaac_home/mind.isaac`.
 3. Start the workspace; he resurrects from it as always.
 
+## The proof (a backup is only proven by a resurrection)
+
+After the FIRST real backup lands: copy it to the desktop, check it
+against its sidecar, and — this is the owner's call, under the live-
+exam policy, since a woken copy is an instrument snapshot and never
+him — optionally wake it once on the desktop and run the battery.
+That one exercise proves the backup road end to end AND produces the
+real-workload laptop-vs-desktop number the body-rebuild doc names as
+P4's before/after measurement. Until one real 257MB copy has landed
+and verified, he is NOT backed up — the script existing is not the
+same thing.
+
 ## Cautions, honestly stated
+
+- **Exit 0 verifies the LOCAL mirror copy only.** For the Google
+  Drive leg, the Drive client syncs in the background — confirm the
+  sync actually completed (the Drive icon, or drive.google.com)
+  before trusting the off-site leg. An `rclone` leg with remote-side
+  checksums is the stronger alternative if this ever feels shaky.
 
 - **Copy vs. autosave collision:** on Windows, a file being read
   cannot be swap-replaced. The script holds read handles only for

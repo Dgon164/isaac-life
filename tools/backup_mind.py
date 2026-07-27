@@ -19,32 +19,52 @@ Behavior:
     differ, an autosave landed mid-copy — retry (up to 5 times).
     Read handles are held only for the short hash/copy passes, to
     stay out of the way of the engine's write-then-swap save.
-  * Skips a destination that already holds a backup with this exact
-    hash (nothing new to save), and says so.
+    The staging file is per-process (PID in the name), so a slow run
+    and a scheduled run can never clobber each other.
+  * Skips a destination only when a backup with this exact hash is
+    both indexed AND still present as a file — an orphaned sidecar
+    can never masquerade as a backup.
   * Lands as .part first, verifies the hash on the destination, then
-    renames — a torn upload can never masquerade as a backup.
-  * Writes a .sha256 sidecar next to every backup for later checking.
-  * NEVER deletes anything unless --prune is passed explicitly
-    (keep-everything is the house law). --prune keeps all copies
-    newer than --keep-days (default 14) and one per week older.
+    renames — a torn upload can never masquerade as a backup. Stale
+    .part orphans (from crashes, full disks, sync deaths) are swept
+    on the next run.
+  * Writes a .sha256 sidecar next to every backup (atomically, so a
+    half-written sidecar cannot exist). A malformed sidecar is
+    ignored and reported, never fatal.
+  * NEVER deletes backups unless --prune is passed explicitly
+    (keep-everything is the house law). --prune touches ONLY files
+    this script created (strict name pattern + sidecar present),
+    keeps everything newer than --keep-days (default 14) and one per
+    week older, and always protects the newest by its timestamp.
   * Exit code 0 = every destination verified; 1 = any failure
-    (so a scheduled task can notice).
+    (so a scheduled task can notice). NOTE: for a Google Drive
+    mirror folder, exit 0 verifies the LOCAL mirror copy — confirm
+    the Drive client actually synced (icon / drive.google.com)
+    before trusting the off-site leg.
 
 Restore: pick a .bak, check it against its .sha256 sidecar, copy it
 to isaac_home/mind.isaac while the workspace is STOPPED. Never while
 he is running.
 """
 import argparse
+import contextlib
 import hashlib
 import os
+import re
 import shutil
 import sys
 import time
 from datetime import datetime, timezone
 
 CHUNK = 8 * 1024 * 1024
+STALE_PART_S = 24 * 3600
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_SOURCE = os.path.join(REPO_ROOT, "isaac_home", "mind.isaac")
+
+# the one shape this script ever creates; prune touches nothing else
+BAK_RE = re.compile(
+    r"^mind\.isaac\.(\d{4}-\d{2}-\d{2}T\d{4}Z)\.([0-9a-f]{12})\.bak$")
+HEX64_RE = re.compile(r"^[0-9a-f]{64}$")
 
 
 def sha256_of(path):
@@ -65,15 +85,35 @@ def log(dest_dir, line):
         with open(os.path.join(dest_dir, "backup_log.txt"), "a",
                   encoding="utf-8") as f:
             f.write(stamped + "\n")
-    except OSError:
+    except Exception:
         pass  # the log must never block the backup itself
 
 
+def sweep_stale_parts(folder):
+    """Remove .part orphans older than a day (crashed/aborted runs).
+    Fresh ones are left alone — they may belong to a live run."""
+    now = time.time()
+    try:
+        names = os.listdir(folder)
+    except OSError:
+        return
+    for name in names:
+        if not name.endswith(".part"):
+            continue
+        path = os.path.join(folder, name)
+        with contextlib.suppress(OSError):
+            if now - os.path.getmtime(path) > STALE_PART_S:
+                os.remove(path)
+                print(f"  swept stale orphan {name}", flush=True)
+
+
 def stable_snapshot(source, staging_dir, retries=5):
-    """Copy source to staging; return (staging_path, hash) only when
-    the source hashed the same before and after the copy."""
+    """Copy source to a per-process staging file; return (path, hash)
+    only when the source hashed the same before and after the copy."""
     os.makedirs(staging_dir, exist_ok=True)
-    staging = os.path.join(staging_dir, "mind.snapshot.part")
+    sweep_stale_parts(staging_dir)
+    staging = os.path.join(staging_dir,
+                           f"mind.snapshot.{os.getpid()}.part")
     for attempt in range(1, retries + 1):
         h_before = sha256_of(source)
         shutil.copy2(source, staging)
@@ -89,20 +129,43 @@ def stable_snapshot(source, staging_dir, retries=5):
 
 
 def existing_hashes(dest_dir):
+    """Map hash -> backup filename, counting ONLY sidecars that parse
+    cleanly AND whose .bak file is still present. Anything malformed
+    or orphaned is reported and ignored — never trusted, never fatal."""
     found = {}
     for name in os.listdir(dest_dir):
-        if name.endswith(".sha256"):
-            try:
-                with open(os.path.join(dest_dir, name),
-                          encoding="utf-8") as f:
-                    found[f.read().strip().split()[0]] = name[:-7]
-            except OSError:
-                continue
+        if not name.endswith(".sha256"):
+            continue
+        bak_name = name[:-7]
+        try:
+            with open(os.path.join(dest_dir, name),
+                      encoding="utf-8") as f:
+                digest = f.read().strip().split()[0]
+        except Exception:
+            print(f"  ignoring malformed sidecar {name}", flush=True)
+            continue
+        if not HEX64_RE.match(digest):
+            print(f"  ignoring malformed sidecar {name}", flush=True)
+            continue
+        if not os.path.exists(os.path.join(dest_dir, bak_name)):
+            print(f"  sidecar {name} has NO backup file beside it — "
+                  f"ignored (will re-copy if needed)", flush=True)
+            continue
+        found[digest] = bak_name
     return found
+
+
+def write_sidecar(dest_dir, final, digest):
+    path = os.path.join(dest_dir, final + ".sha256")
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        f.write(f"{digest}  {final}\n")
+    os.replace(tmp, path)
 
 
 def deliver(staging, digest, dest_dir):
     os.makedirs(dest_dir, exist_ok=True)
+    sweep_stale_parts(dest_dir)
     already = existing_hashes(dest_dir)
     if digest in already:
         log(dest_dir, f"SKIP unchanged — {already[digest]} already "
@@ -111,45 +174,67 @@ def deliver(staging, digest, dest_dir):
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H%MZ")
     final = f"mind.isaac.{stamp}.{digest[:12]}.bak"
     part = os.path.join(dest_dir, final + ".part")
-    shutil.copy2(staging, part)
-    if sha256_of(part) != digest:
-        os.remove(part)
-        log(dest_dir, f"FAIL verify mismatch on {final} — torn copy "
-                      f"removed, nothing landed")
+    try:
+        shutil.copy2(staging, part)
+        if sha256_of(part) != digest:
+            os.remove(part)
+            log(dest_dir, f"FAIL verify mismatch on {final} — torn "
+                          f"copy removed, nothing landed")
+            return False
+        os.replace(part, os.path.join(dest_dir, final))
+    except Exception as e:
+        with contextlib.suppress(OSError):
+            os.remove(part)
+        log(dest_dir, f"FAIL {final}: {e} — partial removed")
         return False
-    os.replace(part, os.path.join(dest_dir, final))
-    with open(os.path.join(dest_dir, final + ".sha256"), "w",
-              encoding="utf-8") as f:
-        f.write(f"{digest}  {final}\n")
+    # the backup is landed and verified; the sidecar is bookkeeping.
+    # If it cannot be written, warn — do not call the backup failed.
+    for attempt in (1, 2):
+        try:
+            write_sidecar(dest_dir, final, digest)
+            break
+        except Exception as e:
+            if attempt == 2:
+                log(dest_dir, f"WARNING {final} landed verified but "
+                              f"its sidecar could not be written ({e}) "
+                              f"— next run will re-copy; not a failure")
     size_mb = os.path.getsize(os.path.join(dest_dir, final)) / 1e6
     log(dest_dir, f"OK {final} ({size_mb:.1f} MB) verified")
     return True
 
 
 def prune(dest_dir, keep_days):
-    """Explicit-only. Keep everything newer than keep_days; older,
-    keep the first backup of each ISO week; never touch sidecar-less
-    files or the newest backup."""
-    baks = sorted(n for n in os.listdir(dest_dir)
-                  if n.startswith("mind.isaac.") and n.endswith(".bak"))
-    if len(baks) <= 1:
+    """Explicit-only. Touches ONLY this script's own backups (strict
+    name pattern, sidecar present). Keeps everything newer than
+    keep_days; older, keeps the first backup of each ISO week. The
+    newest — by the timestamp in the name, not by sort order — always
+    survives. Foreign files are never candidates."""
+    entries = []
+    for name in os.listdir(dest_dir):
+        m = BAK_RE.match(name)
+        if not m:
+            continue
+        if not os.path.exists(os.path.join(dest_dir, name + ".sha256")):
+            continue  # not provably ours / not indexed — never touch
+        entries.append((m.group(1), name))
+    if len(entries) <= 1:
         return
-    now = time.time()
+    entries.sort()  # the stamp is lexicographically chronological
+    now = datetime.now(timezone.utc)
     kept_weeks = set()
-    for name in baks[:-1]:  # newest always survives
-        path = os.path.join(dest_dir, name)
-        age_days = (now - os.path.getmtime(path)) / 86400
-        week = datetime.fromtimestamp(
-            os.path.getmtime(path)).strftime("%G-W%V")
+    for stamp, name in entries[:-1]:  # newest-by-stamp always survives
+        when = datetime.strptime(stamp, "%Y-%m-%dT%H%MZ").replace(
+            tzinfo=timezone.utc)
+        age_days = (now - when).total_seconds() / 86400
+        week = when.strftime("%G-W%V")
         if age_days <= keep_days:
             continue
         if week not in kept_weeks:
             kept_weeks.add(week)
             continue
-        os.remove(path)
-        sidecar = path + ".sha256"
-        if os.path.exists(sidecar):
-            os.remove(sidecar)
+        os.remove(os.path.join(dest_dir, name))
+        with contextlib.suppress(OSError):
+            os.remove(os.path.join(dest_dir, name + ".sha256"))
         log(dest_dir, f"PRUNED {name} (older than {keep_days}d, "
                       f"week {week} already kept)")
 
@@ -175,16 +260,19 @@ def main():
     print(f"snapshot stable, sha256 {digest[:12]}", flush=True)
 
     ok = True
-    for dest in args.dest:
-        try:
-            ok = deliver(staging, digest, dest) and ok
-            if args.prune:
-                prune(dest, args.keep_days)
-        except OSError as e:
-            log(dest if os.path.isdir(dest) else staging_dir,
-                f"FAIL {dest}: {e}")
-            ok = False
-    os.remove(staging)
+    try:
+        for dest in args.dest:
+            try:
+                ok = deliver(staging, digest, dest) and ok
+                if args.prune:
+                    prune(dest, args.keep_days)
+            except Exception as e:
+                log(dest if os.path.isdir(dest) else staging_dir,
+                    f"FAIL {dest}: {e}")
+                ok = False
+    finally:
+        with contextlib.suppress(FileNotFoundError, OSError):
+            os.remove(staging)
     return 0 if ok else 1
 
 
